@@ -39,3 +39,16 @@ macOS
 ssh-keygen -f hyungs -q -N "" -t rsa
 ssh-keygen -f hyungs -q -N "your_password" -t rsa
 ```
+
+![apply](https://github.com/user-attachments/assets/23209959-775e-42f0-9222-3eee1eec2be6)
+
+![db](https://github.com/user-attachments/assets/15b7e456-10ba-4cab-9925-44c2697c232a)
+
+![php](https://github.com/user-attachments/assets/bf2baf8e-5bde-4245-b349-2a288438b69b)
+
+![destroy](https://github.com/user-attachments/assets/eb279e34-0158-4217-9aa3-34cf4ac66c09)
+
+![final](https://github.com/user-attachments/assets/9f3fbdf7-8503-4e00-86f4-2d98714e624b)
+
+
+
