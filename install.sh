@@ -14,17 +14,3 @@ sed -i "s/password_here/It12345!/g" /var/www/html/wp-config.php
 sed -i "s/localhost/hyungs.c16cu6s4wq6o.ap-northeast-2.rds.amazonaws.com/g" /var/www/html/wp-config.php
 echo "babo" >> /var/www/html/health.html
 systemctl enable --now httpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-sdkim.cn6fcv88j4vr.ap-northeast-2.rds.amazonaws.com
